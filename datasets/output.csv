@@ -1,0 +1,1001 @@
+movieId,Director,Budget,Cumulative Worldwide Gross,Runtime
+1301,Fred M. Wilcox,1900000,-,1 hour 38 minutes
+1300,Lasse Hallström,-,8349284,1 hour 41 minutes
+1299,Roland Joffé,14400000,34700291,2 hours 21 minutes
+1298,Alan Parker,12000000,22274148,1 hour 35 minutes
+1297,Martha Coolidge,8000000,12952019,1 hour 48 minutes
+1296,James Ivory,3000000,21062065,1 hour 57 minutes
+1295,Philip Kaufman,17000000,10006806,2 hours 51 minutes
+1293,Richard Attenborough,22000000,52768419,3 hours 11 minutes
+1292,Hal Ashby,-,30179435,2 hours 10 minutes
+1291,Steven Spielberg,48000000,474171806,2 hours 7 minutes
+1290,Howard Deutch,-,18553948,1 hour 35 minutes
+1289,Godfrey Reggio,-,1728124,1 hour 26 minutes
+1288,Rob Reiner,2500000,4739391,1 hour 22 minutes
+1287,William Wyler,15000000,74439376,3 hours 32 minutes
+1286,Jeannot Szwarc,5100000,9709597,1 hour 43 minutes
+1285,Michael Lehmann,3000000,1167227,1 hour 43 minutes
+1284,Howard Hawks,250000,51050,1 hour 54 minutes
+1283,Fred Zinnemann,730000,217,1 hour 25 minutes
+1282,"James Algar, Samuel Armstrong, Ford Beebe Jr.",2280000,76411978,2 hours 4 minutes
+1281,Charles Chaplin,2000000,972212,2 hours 5 minutes
+1280,Yimou Zhang,-,2603061,2 hours 5 minutes
+1279,Jim Jarmusch,3500000,2113387,2 hours 9 minutes
+1278,Mel Brooks,2800000,86276706,1 hour 46 minutes
+1277,Jean-Paul Rappeneau,100000000,5822041,2 hours 17 minutes
+1276,Stuart Rosenberg,3200000,1767,2 hours 7 minutes
+1275,Russell Mulcahy,16000000,5901480,1 hour 56 minutes
+1274,Katsuhiro Ôtomo,1100000000,3337718,2 hours 4 minutes
+1273,Jim Jarmusch,1100000,1529199,1 hour 47 minutes
+1272,Franklin J. Schaffner,12000000,61749765,2 hours 52 minutes
+1271,Jon Avnet,11000000,119418501,2 hours 10 minutes
+1270,Robert Zemeckis,19000000,385053307,1 hour 56 minutes
+1269,Frank Capra,1164000,-,1 hour 58 minutes
+1268,Allan Moyle,-,11541758,1 hour 42 minutes
+1267,John Frankenheimer,2200000,2757256,2 hours 6 minutes
+1266,Clint Eastwood,14400000,159167799,2 hours 10 minutes
+1265,Harold Ramis,14600000,71108778,1 hour 41 minutes
+1264,Jean-Jacques Beineix,-,183425,1 hour 57 minutes
+1263,Michael Cimino,15000000,49080126,3 hours 3 minutes
+1262,John Sturges,4000000,230637,2 hours 52 minutes
+1261,Sam Raimi,3600000,5932279,1 hour 24 minutes
+1260,Fritz Lang,-,35566,1 hour 39 minutes
+1259,Rob Reiner,8000000,53522503,1 hour 29 minutes
+1258,Stanley Kubrick,19000000,47962534,2 hours 26 minutes
+1257,Savage Steve Holland,-,10297601,1 hour 37 minutes
+1256,Leo McCarey,-,106318,1 hour 9 minutes
+1255,Peter Jackson,200000,-,1 hour 31 minutes
+1254,John Huston,3000000,5014000,2 hours 6 minutes
+1253,Robert Wise,1200000,651,1 hour 32 minutes
+1252,Roman Polanski,6000000,29231954,2 hours 10 minutes
+1251,Federico Fellini,-,200502,2 hours 18 minutes
+1250,David Lean,3000000,27201366,2 hours 41 minutes
+1249,Luc Besson,50000000,5018604,1 hour 57 minutes
+1248,Orson Welles,829000,2285063,1 hour 35 minutes
+1247,Mike Nichols,3000000,105017024,1 hour 46 minutes
+1246,Peter Weir,16400000,235860116,2 hours 8 minutes
+1245,"Joel Coen, Ethan Coen",14000000,5080409,1 hour 55 minutes
+1244,Woody Allen,9000000,40194067,1 hour 36 minutes
+1243,Tom Stoppard,-,739104,1 hour 57 minutes
+1242,Edward Zwick,18000000,26979166,2 hours 2 minutes
+1241,Peter Jackson,3000000,242623,1 hour 44 minutes
+1240,James Cameron,6400000,78371200,1 hour 47 minutes
+1238,Bill Forsyth,3000000,5975220,1 hour 51 minutes
+1237,Ingmar Bergman,150000,311212,1 hour 36 minutes
+1236,Hal Hartley,700000,357400,1 hour 47 minutes
+1235,Hal Ashby,1200000,4535,1 hour 31 minutes
+1234,George Roy Hill,5500000,156000000,2 hours 9 minutes
+1233,Wolfgang Petersen,32000000,11488778,2 hours 29 minutes
+1232,Andrei Tarkovsky,1000000,438245,2 hours 42 minutes
+1231,Philip Kaufman,27000000,21192315,3 hours 13 minutes
+1230,Woody Allen,4000000,38289445,1 hour 33 minutes
+1228,Martin Scorsese,18000000,23405883,2 hours 9 minutes
+1227,Sergio Leone,30000000,5476126,3 hours 49 minutes
+1226,John Ford,1750000,-,2 hours 9 minutes
+1225,Milos Forman,18000000,52107292,2 hours 40 minutes
+1224,Kenneth Branagh,9000000,10161211,2 hours 17 minutes
+1223,Nick Park,-,59826,23 minutes
+1222,Stanley Kubrick,30000000,50193748,1 hour 56 minutes
+1221,Francis Ford Coppola,13000000,47964222,3 hours 22 minutes
+1220,John Landis,27500000,115229890,2 hours 13 minutes
+1219,Alfred Hitchcock,806947,32248065,1 hour 49 minutes
+1218,John Woo,-,2340425,1 hour 51 minutes
+1217,Akira Kurosawa,11500000,4172871,2 hours 40 minutes
+1216,Luc Besson,80000000,3992246,2 hours 48 minutes
+1215,Sam Raimi,11000000,11514639,1 hour 21 minutes
+1214,Ridley Scott,11000000,108610231,1 hour 57 minutes
+1213,Martin Scorsese,25000000,47056033,2 hours 25 minutes
+1212,Carol Reed,-,1406393,1 hour 44 minutes
+1211,Wim Wenders,-,3518525,2 hours 8 minutes
+1210,Richard Marquand,32500000,482466382,2 hours 11 minutes
+1209,Sergio Leone,5000000,5435312,2 hours 46 minutes
+1208,Francis Ford Coppola,31500000,105086099,2 hours 27 minutes
+1207,Robert Mulligan,2000000,599934,2 hours 9 minutes
+1206,Stanley Kubrick,2200000,27034174,2 hours 16 minutes
+1204,David Lean,15000000,45764288,3 hours 47 minutes
+1203,Sidney Lumet,350000,2945,1 hour 36 minutes
+1202,Bruce Robinson,1100000,1950623,1 hour 47 minutes
+1201,Sergio Leone,1200000,25264999,2 hours 58 minutes
+1200,James Cameron,18500000,131060248,2 hours 17 minutes
+1199,Terry Gilliam,15000000,9949953,2 hours 12 minutes
+1198,Steven Spielberg,18000000,389925971,1 hour 55 minutes
+1197,Rob Reiner,16000000,30966276,1 hour 38 minutes
+1196,Irvin Kershner,18000000,550016086,2 hours 4 minutes
+1194,"Lou Adler, Tommy Chong",2000000,44364244,1 hour 26 minutes
+1193,Milos Forman,3000000,109115366,2 hours 13 minutes
+1192,Jennie Livingston,500000,3906006,1 hour 18 minutes
+1191,Alek Keshishian,4500000,29012935,2 hours
+1190,Pedro Almodóvar,-,4089145,1 hour 41 minutes
+1189,Errol Morris,-,1209846,1 hour 41 minutes
+1188,Baz Luhrmann,3000000,11758978,1 hour 34 minutes
+1187,John Sayles,3330000,4814619,2 hours 15 minutes
+1186,Steven Soderbergh,1200000,24742453,1 hour 40 minutes
+1185,Jim Sheridan,600000,14743391,1 hour 43 minutes
+1184,Gabriele Salvatores,-,4532791,1 hour 36 minutes
+1183,Anthony Minghella,27000000,231976425,2 hours 42 minutes
+1180,Peter Chelsom,-,4313473,1 hour 44 minutes
+1179,Stephen Frears,-,13446769,1 hour 50 minutes
+1178,Stanley Kubrick,935000,8290,1 hour 28 minutes
+1177,Mike Newell,-,13200170,1 hour 35 minutes
+1176,Krzysztof Kieslowski,-,2175939,1 hour 38 minutes
+1175,"Marc Caro, Jean-Pierre Jeunet",24000000,1804142,1 hour 39 minutes
+1173,Peter Greenaway,-,8526030,2 hours 4 minutes
+1172,Giuseppe Tornatore,5000000,13020497,2 hours 54 minutes
+1171,Tim Robbins,3900000,4479470,1 hour 42 minutes
+1170,Phillip Rhee,-,-,1 hour 30 minutes
+1167,Garry Marshall,22000000,7138523,1 hour 52 minutes
+1163,Martine Dugowson,-,-,2 hours 8 minutes
+1162,Peter Medak,-,-,2 hours 34 minutes
+1161,Volker Schlöndorff,-,7469,2 hours 22 minutes
+1156,Vittorio De Sica,-,-,1 hour 24 minutes
+1151,Jan Svankmajer,-,2117923,1 hour 37 minutes
+1150,Daniel Vigne,-,3723036,1 hour 52 minutes
+1148,Nick Park,-,-,29 minutes
+1147,Leon Gast,-,2789985,1 hour 28 minutes
+1144,Susan Warms Dryfoos,-,50605,1 hour 26 minutes
+1140,Michael Ray Rhodes,-,-,1 hour 50 minutes
+1137,"Rick Castro, Bruce La Bruce",-,-,1 hour 19 minutes
+1136,"Terry Gilliam, Terry Jones",229575,2817496,1 hour 31 minutes
+1135,Howard Zieff,9500000,69847348,1 hour 49 minutes
+1132,Claude Berri,-,3940542,1 hour 53 minutes
+1131,Claude Berri,-,4940939,2 hours
+1130,Joe Dante,1000000,17985893,1 hour 31 minutes
+1129,John Carpenter,6000000,25276664,1 hour 39 minutes
+1128,John Carpenter,1100000,21448830,1 hour 29 minutes
+1127,James Cameron,70000000,90520202,2 hours 20 minutes
+1126,Ate de Jong,6788000,13884358,1 hour 43 minutes
+1125,Blake Edwards,5000000,41833423,1 hour 53 minutes
+1124,Mark Rydell,7500000,119285810,1 hour 49 minutes
+1123,"R.J. Cutler, David Van Taylor",-,134485,1 hour 45 minutes
+1121,Rich Wilkes,-,15134,1 hour 40 minutes
+1120,Milos Forman,36000000,20300385,2 hours 10 minutes
+1119,Peter Cohn,-,38268,1 hour 30 minutes
+1117,Jaco Van Dormael,25000000,33031984,1 hour 58 minutes
+1116,Benoît Jacquot,-,230049,1 hour 30 minutes
+1114,Abel Ferrara,12500000,1227324,1 hour 39 minutes
+1112,Alan Taylor,-,365284,1 hour 32 minutes
+1111,"Claude Nuridsany, Marie Pérennou",5000000,1433210,1 hour 20 minutes
+1107,Erik Burke,-,-,1 hour 24 minutes
+1105,Greg Spence,-,-,1 hour 25 minutes
+1104,Elia Kazan,1800000,53162,2 hours 2 minutes
+1103,Nicholas Ray,1500000,217945,1 hour 51 minutes
+1101,Tony Scott,15000000,357288178,1 hour 49 minutes
+1100,Tony Scott,60000000,157920733,1 hour 47 minutes
+1099,Edwin L. Marin,-,-,1 hour 9 minutes
+1097,Steven Spielberg,10500000,797307407,1 hour 55 minutes
+1096,Alan J. Pakula,12000000,30036166,2 hours 30 minutes
+1095,James Foley,12500000,10726612,1 hour 40 minutes
+1094,Neil Jordan,2300000,62548947,1 hour 52 minutes
+1093,Oliver Stone,38000000,34505119,2 hours 20 minutes
+1092,Paul Verhoeven,49000000,352927224,2 hours 7 minutes
+1091,Ted Kotcheff,-,30218387,1 hour 37 minutes
+1090,Oliver Stone,6000000,138545632,2 hours
+1089,Quentin Tarantino,1200000,2932006,1 hour 39 minutes
+1088,Emile Ardolino,6000000,214577242,1 hour 40 minutes
+1086,Alfred Hitchcock,1400000,45313,1 hour 45 minutes
+1085,"John Sturges, Fred Zinnemann",5000000,67740,1 hour 26 minutes
+1084,Arthur Penn,2500000,1475,1 hour 51 minutes
+1083,Blake Edwards,12000000,-,2 hours 40 minutes
+1082,Michael Ritchie,1500000,-,1 hour 50 minutes
+1081,Blake Edwards,-,28229440,2 hours 14 minutes
+1080,Terry Jones,4000000,20831345,1 hour 34 minutes
+1079,"Charles Crichton, John Cleese",7500000,62493712,1 hour 48 minutes
+1078,Woody Allen,2000000,136200,1 hour 22 minutes
+1077,Woody Allen,2000000,18344868,1 hour 29 minutes
+1076,Jack Clayton,430000,30221,1 hour 40 minutes
+1073,Mel Stuart,3000000,687059,1 hour 40 minutes
+1068,Edward Dmytryk,250000,-,1 hour 26 minutes
+1066,Mark Sandrich,991000,6662,1 hour 49 minutes
+1064,Tad Stones,-,-,1 hour 21 minutes
+1061,Barry Levinson,44000000,165615285,2 hours 27 minutes
+1060,Doug Liman,200000,4555020,1 hour 36 minutes
+1059,Baz Luhrmann,14500000,147554998,2 hours
+1057,Woody Allen,20000000,9759200,1 hour 41 minutes
+1056,Michael Winterbottom,7000000,409144,2 hours 3 minutes
+1055,George P. Cosmatos,45000000,2312463,1 hour 43 minutes
+1054,Spike Lee,2400000,5754249,2 hours
+1053,John McNaughton,-,22891,1 hour 41 minutes
+1051,Steve Buscemi,1300000,749741,1 hour 35 minutes
+1050,Al Pacino,-,1408575,1 hour 51 minutes
+1049,Stephen Hopkins,55000000,38619405,1 hour 50 minutes
+1047,Renny Harlin,65000000,89456761,2 hours 1 minute
+1046,Hettie Macdonald,-,2176488,1 hour 30 minutes
+1043,Michael Pressman,-,4189233,1 hour 33 minutes
+1042,Tom Hanks,26000000,34585416,1 hour 48 minutes
+1041,Mike Leigh,4500000,13417292,2 hours 16 minutes
+1040,Christopher Hampton,7000000,106606,1 hour 35 minutes
+1037,Brett Leonard,10000000,32100816,1 hour 48 minutes
+1036,John McTiernan,28000000,143651650,2 hours 12 minutes
+1035,Robert Wise,8200000,159484051,2 hours 52 minutes
+1034,Matthew Bright,3000000,295493,1 hour 44 minutes
+1033,"Ted Berman, Richard Rich, Art Stevens",12000000,63456988,1 hour 23 minutes
+1032,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",3000000,865,1 hour 15 minutes
+1031,"Robert Stevenson, Ward Kimball",20000000,844,1 hour 57 minutes
+1030,"Don Chaffey, Don Bluth",10000000,39588000,2 hours 8 minutes
+1029,"Samuel Armstrong, Norman Ferguson, Wilfred Jackson",950000,3890,1 hour 4 minutes
+1028,Robert Stevenson,6000000,103125597,2 hours 19 minutes
+1027,Kevin Reynolds,48000000,390493908,2 hours 23 minutes
+1025,"Wolfgang Reitherman, Clyde Geronimi, David Hand",3000000,12000000,1 hour 19 minutes
+1024,"Norman Ferguson, Clyde Geronimi, Jack Kinney",-,-,1 hour 11 minutes
+1023,"Wolfgang Reitherman, Ben Sharpsteen",-,-,25 minutes
+1022,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",2900000,96383330,1 hour 14 minutes
+1021,William Dear,24000000,50236831,1 hour 42 minutes
+1020,Jon Turteltaub,14000000,154856263,1 hour 38 minutes
+1019,Richard Fleischer,9000000,746,2 hours 7 minutes
+1018,Robert Stevenson,-,-,1 hour 56 minutes
+1017,Ken Annakin,5000000,40357287,2 hours 6 minutes
+1016,Charles Barton,-,-,1 hour 44 minutes
+1015,Duwayne Dunham,-,41833324,1 hour 24 minutes
+1014,David Swift,-,-,2 hours 14 minutes
+1013,David Swift,-,29650385,2 hours 9 minutes
+1012,Robert Stevenson,-,91,1 hour 23 minutes
+1011,Robert Stevenson,-,38229000,1 hour 28 minutes
+1010,Robert Stevenson,-,51264022,1 hour 48 minutes
+1009,John Hough,-,20000000,1 hour 37 minutes
+1008,Norman Foster,-,-,1 hour 33 minutes
+1007,Norman Tokar,-,36853000,1 hour 40 minutes
+1006,James Foley,50000000,22540359,1 hour 53 minutes
+1005,Robert Lieberman,-,22955097,1 hour 44 minutes
+1004,John Gray,45000000,20351264,1 hour 31 minutes
+1003,Michael Apted,38000000,17380126,1 hour 58 minutes
+999,John Herzfeld,-,11132210,1 hour 44 minutes
+998,F. Gary Gray,9000000,41590886,2 hours 3 minutes
+996,Walter Hill,67000000,47267001,1 hour 41 minutes
+994,"Campbell Scott, Stanley Tucci",4100000,12009094,1 hour 49 minutes
+993,Matthew Broderick,-,195170,1 hour 59 minutes
+991,Neil Jordan,25000000,11136590,2 hours 13 minutes
+990,Ringo Lam,25000000,14502483,1 hour 41 minutes
+988,Allison Anders,5000000,660313,1 hour 56 minutes
+987,Lance Young,-,294064,1 hour 43 minutes
+986,Carroll Ballard,22000000,25143818,1 hour 47 minutes
+984,Richard Schenkman,-,-,1 hour 39 minutes
+982,Joshua Logan,-,-,1 hour 55 minutes
+981,Darrell Roodt,-,5406742,1 hour 35 minutes
+979,Thaddeus O'Sullivan,-,40374,1 hour 26 minutes
+976,Frank Borzage,799520,-,1 hour 20 minutes
+973,Frank Capra,-,-,2 hours 2 minutes
+971,Richard Brooks,3000000,1872,1 hour 48 minutes
+970,John Huston,1000000,-,1 hour 29 minutes
+969,John Huston,1000000,46305,1 hour 45 minutes
+968,George A. Romero,114000,237994,1 hour 36 minutes
+965,Alfred Hitchcock,50000,52623,1 hour 26 minutes
+963,Henry Koster,2873000,-,1 hour 42 minutes
+961,John Cromwell,-,-,1 hour 42 minutes
+959,John Cromwell,403000,-,1 hour 23 minutes
+956,George Stevens,-,-,1 hour 59 minutes
+955,Howard Hawks,1073000,13054,1 hour 42 minutes
+954,Frank Capra,1900000,146123,2 hours 9 minutes
+953,Frank Capra,3180000,10635461,2 hours 10 minutes
+952,"Michael Anderson, John Farrow",6000000,42009549,2 hours 55 minutes
+951,Howard Hawks,-,-,1 hour 32 minutes
+950,W.S. Van Dyke,226408,-,1 hour 31 minutes
+949,Elia Kazan,-,28821,1 hour 58 minutes
+948,George Stevens,5400000,32857066,3 hours 21 minutes
+947,Gregory La Cava,656000,-,1 hour 34 minutes
+946,Ernst Lubitsch,-,4578000,1 hour 39 minutes
+945,Mark Sandrich,609000,13592,1 hour 41 minutes
+944,Frank Capra,4000000,-,2 hours 12 minutes
+943,Joseph L. Mankiewicz,-,29545,1 hour 44 minutes
+942,"Otto Preminger, Rouben Mamoulian",1020000,151,1 hour 28 minutes
+941,Rouben Mamoulian,1000000,10248,1 hour 34 minutes
+940,"Michael Curtiz, William Keighley",1900000,291,1 hour 42 minutes
+938,"Vincente Minnelli, Charles Walters",3319355,-,1 hour 55 minutes
+937,Billy Wilder,2100000,718,2 hours 10 minutes
+936,Ernst Lubitsch,1365000,2477,1 hour 50 minutes
+935,Vincente Minnelli,2169120,15009,1 hour 52 minutes
+934,Vincente Minnelli,-,-,1 hour 32 minutes
+933,Alfred Hitchcock,2500000,7117,1 hour 46 minutes
+932,Leo McCarey,-,3856344,1 hour 55 minutes
+931,Alfred Hitchcock,1696377,19000,1 hour 51 minutes
+930,Alfred Hitchcock,2000000,117060,1 hour 42 minutes
+929,Alfred Hitchcock,1500000,782,2 hours
+928,Alfred Hitchcock,1288000,113328,2 hours 10 minutes
+927,George Cukor,1688000,16161,2 hours 13 minutes
+926,Joseph L. Mankiewicz,1400000,154736,2 hours 18 minutes
+924,Stanley Kubrick,12000000,66781817,2 hours 29 minutes
+923,Orson Welles,839727,1707754,1 hour 59 minutes
+922,Billy Wilder,1752000,309467,1 hour 50 minutes
+921,Richard Benjamin,7900000,20123620,1 hour 32 minutes
+920,Victor Fleming,3977000,402382193,3 hours 58 minutes
+919,"Victor Fleming, King Vidor",2777000,25637669,1 hour 42 minutes
+918,Vincente Minnelli,1700000,502778,1 hour 53 minutes
+917,"Walter Lang, William A. Seiter",1000000,-,1 hour 33 minutes
+916,William Wyler,1500000,101289,1 hour 58 minutes
+915,Billy Wilder,2238813,2635,1 hour 53 minutes
+914,George Cukor,17000000,72684726,2 hours 50 minutes
+913,John Huston,375000,39387,1 hour 40 minutes
+912,Michael Curtiz,950000,4727083,1 hour 42 minutes
+911,Stanley Donen,3000000,175119,1 hour 53 minutes
+910,Billy Wilder,2883848,208786,2 hours 1 minute
+909,Billy Wilder,3000000,18778738,2 hours 5 minutes
+908,Alfred Hitchcock,3101000,192323,2 hours 16 minutes
+907,Mark Sandrich,520000,6879,1 hour 47 minutes
+906,George Cukor,-,2391,1 hour 54 minutes
+905,Frank Capra,325000,16993,1 hour 45 minutes
+904,Alfred Hitchcock,1000000,37905475,1 hour 52 minutes
+903,Alfred Hitchcock,2479000,7967183,2 hours 8 minutes
+902,Blake Edwards,2500000,594615,1 hour 55 minutes
+901,Stanley Donen,3000000,1669,1 hour 43 minutes
+900,Vincente Minnelli,2723903,275077,1 hour 54 minutes
+899,"Stanley Donen, Gene Kelly",2540800,2093659,1 hour 43 minutes
+898,George Cukor,944000,413654,1 hour 52 minutes
+897,Sam Wood,3000000,-,2 hours 50 minutes
+896,André Téchiné,-,807775,1 hour 50 minutes
+893,Keith Gordon,6000000,403701,1 hour 54 minutes
+892,Trevor Nunn,5000000,588621,2 hours 14 minutes
+891,Joe Chappelle,5000000,15116634,1 hour 27 minutes
+889,Theo van Gogh,-,-,1 hour 27 minutes
+888,Roy Allen Smith,-,-,1 hour 11 minutes
+886,Ernest R. Dickerson,25000000,22611954,1 hour 24 minutes
+885,Norman Jewison,30000000,4357406,1 hour 50 minutes
+882,David Koepp,8000000,3622979,1 hour 34 minutes
+881,David Mickey Evans,-,26491793,1 hour 41 minutes
+880,"John Frankenheimer, Richard Stanley",40000000,49627779,1 hour 36 minutes
+879,Peter Hyams,40000000,33956608,1 hour 50 minutes
+876,Stanley Tong,-,-,1 hour 44 minutes
+875,Izidore K. Musallam,-,-,1 hour 23 minutes
+870,Christopher Cain,53000000,19745922,1 hour 34 minutes
+869,Robert Altman,19000000,1356828,1 hour 56 minutes
+867,Arthur Hiller,17000000,3325651,1 hour 29 minutes
+866,"Lana Wachowski, Lilly Wachowski",4500000,3802260,1 hour 49 minutes
+861,Stanley Tong,900000,16270600,1 hour 31 minutes
+858,Francis Ford Coppola,6000000,250342198,2 hours 55 minutes
+852,Ron Shelton,45000000,53854588,2 hours 15 minutes
+851,Julian Schnabel,3300000,3046399,1 hour 47 minutes
+849,John Carpenter,50000000,25477365,1 hour 41 minutes
+848,Lee David Zlotoff,6000000,12658486,1 hour 57 minutes
+842,Gilbert Adler,13000000,5781045,1 hour 27 minutes
+841,Georges Franju,-,61453,1 hour 30 minutes
+840,Harry Winer,-,7032782,1 hour 48 minutes
+839,Tim Pope,13000000,17917287,1 hour 24 minutes
+838,Douglas McGrath,6000000,22231658,2 hours
+837,Danny DeVito,36000000,33460753,1 hour 38 minutes
+836,Andrew Davis,50000000,60209334,1 hour 47 minutes
+835,Annette Haywood-Carter,-,269300,1 hour 42 minutes
+833,Hart Bochner,-,21302121,1 hour 26 minutes
+832,Ron Howard,80000000,309492681,2 hours 1 minute
+830,Hugh Wilson,26000000,181489203,1 hour 43 minutes
+829,John Payson,13000000,4619014,1 hour 20 minutes
+828,Steve Barron,25000000,15094530,1 hour 36 minutes
+824,Peter Sehr,-,-,2 hours 19 minutes
+823,Éric Rohmer,-,7077,1 hour 26 minutes
+818,Arlene Sanford,12000000,21440752,1 hour 30 minutes
+813,Howard Franklin,30000000,8315693,1 hour 33 minutes
+810,Paul Michael Glaser,20000000,18937262,1 hour 33 minutes
+809,Kevin Hooks,25000000,17193231,1 hour 38 minutes
+808,Fraser C. Heston,23000000,11829959,1 hour 49 minutes
+806,Michael Corrente,-,665450,1 hour 28 minutes
+805,Joel Schumacher,40000000,152266007,2 hours 29 minutes
+804,Edward Burns,3500000,9538948,1 hour 36 minutes
+803,Nicole Holofcener,1000000,1287480,1 hour 26 minutes
+802,Jon Turteltaub,32000000,152036382,2 hours 3 minutes
+801,Bronwen Hughes,12000000,26570048,1 hour 40 minutes
+800,John Sayles,5000000,12421583,2 hours 15 minutes
+799,Peter Jackson,30000000,29359216,1 hour 50 minutes
+798,Rob Cohen,80000000,159212469,1 hour 54 minutes
+795,Alexandre Rockwell,-,18112,1 hour 42 minutes
+791,Yale Strom,-,-,1 hour 25 minutes
+790,Lucian Pintilie,-,-,1 hour 22 minutes
+788,Tom Shadyac,54000000,273961019,1 hour 35 minutes
+786,Chuck Russell,100000000,242295562,1 hour 55 minutes
+785,"Bobby Farrelly, Peter Farrelly",27000000,25023434,1 hour 54 minutes
+784,Ben Stiller,47000000,102825796,1 hour 36 minutes
+783,"Gary Trousdale, Kirk Wise",100000000,325338851,1 hour 31 minutes
+782,Tony Scott,55000000,18626419,1 hour 56 minutes
+781,Bernardo Bertolucci,10000000,4885670,1 hour 58 minutes
+780,Roland Emmerich,75000000,817400891,2 hours 25 minutes
+779,Scott Winant,1000000,3525125,1 hour 53 minutes
+778,Danny Boyle,1500000,16981823,1 hour 33 minutes
+775,"Federico Fellini, Louis Malle, Roger Vadim",-,-,2 hours 1 minute
+773,Djibril Diop Mambéty,-,180,1 hour 25 minutes
+766,Mary Harron,-,1875527,1 hour 43 minutes
+765,Francis Ford Coppola,45000000,58620973,1 hour 53 minutes
+764,James Mangold,-,941414,1 hour 45 minutes
+762,Andrew Bergman,40000000,113309743,1 hour 55 minutes
+761,Simon Wincer,45000000,17323326,1 hour 40 minutes
+760,Joseph Vilsmaier,20000000,152972,2 hours 14 minutes
+759,Freida Lee Mock,-,62186,1 hour 45 minutes
+757,Wong Kar-Wai,40000000,2009694,1 hour 40 minutes
+750,Stanley Kubrick,1800000,9631984,1 hour 35 minutes
+748,David Twohy,25000000,14063331,1 hour 55 minutes
+747,John Landis,25000000,2491989,1 hour 34 minutes
+745,Nick Park,-,20909,30 minutes
+743,Rick Friedberg,18000000,26960191,1 hour 21 minutes
+742,Tom Holland,8000000,15315484,1 hour 33 minutes
+741,Mamoru Oshii,330000000,964016,1 hour 23 minutes
+737,David Hogan,9000000,3793614,1 hour 38 minutes
+736,Jan de Bont,92000000,494580615,1 hour 53 minutes
+735,Michele Soavi,4000000,253986,1 hour 43 minutes
+733,Michael Bay,75000000,335062621,2 hours 16 minutes
+731,Phil Joanou,25000000,5009305,2 hours 12 minutes
+728,John Schlesinger,-,5682429,1 hour 45 minutes
+726,Bruce Beresford,-,5939449,1 hour 43 minutes
+725,Reginald Hudlin,-,8008255,1 hour 31 minutes
+724,Andrew Fleming,15000000,24825844,1 hour 41 minutes
+722,Brett Thompson,-,-,1 hour 29 minutes
+720,-,-,-,-
+719,Harold Ramis,45000000,21075014,1 hour 57 minutes
+718,Jean-Marie Poiré,50000000,659810,1 hour 47 minutes
+715,Jean-Paul Rappeneau,-,1320043,1 hour 58 minutes
+714,Jim Jarmusch,9000000,1085079,2 hours 1 minute
+711,Alan Shapiro,25530000,20080020,1 hour 35 minutes
+710,Tom DeCerchio,-,9255027,1 hour 31 minutes
+709,George Scribner,31000000,74151346,1 hour 14 minutes
+708,Michael Lehmann,-,34861807,1 hour 37 minutes
+707,Lee Tamahori,29000000,11526099,1 hour 47 minutes
+706,Steve Gomer,-,10163782,1 hour 39 minutes
+704,Jean-Claude Van Damme,30000000,57400547,1 hour 35 minutes
+703,Stacy Cochran,-,516349,1 hour 26 minutes
+700,Patrick Read Johnson,-,4821759,1 hour 30 minutes
+698,Zalman King,-,63174,1 hour 42 minutes
+697,Steven Baigelman,-,3124440,1 hour 39 minutes
+695,Pat Verducci,-,-,1 hour 34 minutes
+694,Robert Mandel,-,14818176,1 hour 54 minutes
+692,Norberto Barba,19000000,5107669,1 hour 34 minutes
+691,Richard Benjamin,25000000,10082005,1 hour 45 minutes
+688,Simon Wincer,-,24670346,1 hour 47 minutes
+685,Randal Kleiser,-,622503,1 hour 50 minutes
+680,Jean-Luc Godard,220000,66076,1 hour 39 minutes
+679,Peter Yates,-,-,1 hour 49 minutes
+678,George Hickenlooper,-,-,25 minutes
+674,Roger Vadim,9000000,1288,1 hour 38 minutes
+673,Joe Pytka,80000000,230594962,1 hour 28 minutes
+671,Jim Mallon,-,1007306,1 hour 13 minutes
+670,Satyajit Ray,-,134241,1 hour 45 minutes
+668,Satyajit Ray,-,135342,2 hours 5 minutes
+667,"Alan Mehrez, Philip Tan",-,684351,1 hour 30 minutes
+665,Emir Kusturica,14000000,182134,2 hours 47 minutes
+663,Kelly Makin,-,2654308,1 hour 29 minutes
+662,James Foley,-,20831000,1 hour 37 minutes
+661,Henry Selick,38000000,28946127,1 hour 19 minutes
+656,Steve Rash,30000000,31387164,1 hour 40 minutes
+653,Rob Cohen,57000000,115267375,1 hour 43 minutes
+650,Pen Densham,-,3486957,2 hours 3 minutes
+649,Friðrik Þór Friðriksson,130000000,-,1 hour 23 minutes
+648,Brian De Palma,80000000,457696391,1 hour 50 minutes
+647,Edward Zwick,46000000,100860818,1 hour 56 minutes
+645,Claude Sautet,-,955708,1 hour 46 minutes
+640,Jeremiah S. Chechik,-,17100266,1 hour 47 minutes
+639,Spike Lee,12000000,4939939,1 hour 48 minutes
+638,Tim Sullivan,-,218626,1 hour 50 minutes
+637,Jonathan Lynn,39000000,37956793,1 hour 34 minutes
+636,Todd Verow,-,87433,1 hour 28 minutes
+635,Richard Pearce,-,10125417,1 hour 49 minutes
+634,Jonathan R. Betuel,33500000,-,1 hour 32 minutes
+633,Hal Salwen,-,148121,1 hour 20 minutes
+632,Ken Loach,2500000,228800,1 hour 49 minutes
+631,"Larry Leker, Paul Sabella",-,8620678,1 hour 22 minutes
+628,Gregory Hoblit,30000000,102616183,2 hours 9 minutes
+627,Stacy Title,-,459749,1 hour 32 minutes
+626,Martin Lawrence,8000000,35599803,1 hour 48 minutes
+619,Bill Couturié,24000000,4422380,1 hour 34 minutes
+618,Fernando Trueba,24000000,1141556,1 hour 58 minutes
+617,Pedro Almodóvar,-,1105265,1 hour 43 minutes
+616,Wolfgang Reitherman,4000000,191000000,1 hour 18 minutes
+615,Franco Brusati,-,-,1 hour 40 minutes
+613,Franco Zeffirelli,-,5200601,1 hour 52 minutes
+612,Matt Reeves,8000000,5656388,1 hour 38 minutes
+611,Kevin Yagher,4000000,9336886,1 hour 25 minutes
+610,"Gerald Potterton, John Bruno, John Halas",9300000,547563,1 hour 26 minutes
+609,David R. Ellis,-,32772492,1 hour 28 minutes
+608,"Joel Coen, Ethan Coen",7000000,60611975,1 hour 38 minutes
+606,Bill Condon,6000000,13940383,1 hour 35 minutes
+605,Michael Hoffman,-,97529550,1 hour 48 minutes
+602,Jean Bach,-,527034,1 hour
+600,C.M. Talkington,-,35200,1 hour 41 minutes
+599,Sam Peckinpah,6244087,640561,2 hours 15 minutes
+597,Garry Marshall,14000000,463406268,1 hour 59 minutes
+596,"Norman Ferguson, T. Hee, Wilfred Jackson",2600000,121892045,1 hour 28 minutes
+595,"Gary Trousdale, Kirk Wise",25000000,451291298,1 hour 24 minutes
+594,"William Cottrell, David Hand, Wilfred Jackson",1499000,184960747,1 hour 23 minutes
+593,Jonathan Demme,19000000,272742922,1 hour 58 minutes
+592,Tim Burton,35000000,411569241,2 hours 6 minutes
+590,Kevin Costner,22000000,424208848,3 hours 1 minute
+589,James Cameron,102000000,517778573,2 hours 17 minutes
+588,"Ron Clements, John Musker",28000000,504050219,1 hour 30 minutes
+587,Jerry Zucker,22000000,505703557,2 hours 7 minutes
+586,Chris Columbus,18000000,476684675,1 hour 43 minutes
+585,Betty Thomas,12000000,46576136,1 hour 30 minutes
+583,Nanni Moretti,-,173696,1 hour 40 minutes
+581,"Rob Epstein, Jeffrey Friedman",-,1400591,1 hour 42 minutes
+580,Michael Austin,-,3062530,1 hour 37 minutes
+579,Ricky Tognazzi,-,147107,1 hour 36 minutes
+577,George Miller,-,16820893,1 hour 34 minutes
+575,Penelope Spheeris,23000000,67308282,1 hour 22 minutes
+574,David O. Russell,200000,1359736,1 hour 40 minutes
+573,Lina Wertmüller,-,1113435,1 hour 40 minutes
+569,Andrew Scheinman,-,12267790,1 hour 59 minutes
+568,Gurinder Chadha,-,739055,1 hour 41 minutes
+567,Pedro Almodóvar,-,2020357,1 hour 54 minutes
+564,Dennis Hopper,-,1596687,1 hour 42 minutes
+563,Claude Berri,164000000,-,2 hours 40 minutes
+562,Todd Solondz,800000,4569882,1 hour 28 minutes
+558,"Pixote Hunt, Joe Johnston",27000000,13670688,1 hour 20 minutes
+556,"Chris Hegedus, D.A. Pennebaker",-,901668,1 hour 36 minutes
+555,Tony Scott,13000000,13088850,1 hour 59 minutes
+553,George P. Cosmatos,25000000,56505065,2 hours 10 minutes
+552,Stephen Herek,30000000,53898845,1 hour 45 minutes
+551,Henry Selick,18000000,107800040,1 hour 16 minutes
+550,Andrew Fleming,-,14815317,1 hour 33 minutes
+549,François Girard,-,1319521,1 hour 38 minutes
+548,Deran Sarafian,50000000,16487349,1 hour 42 minutes
+547,Ernest R. Dickerson,7400000,7727256,1 hour 36 minutes
+546,"Annabel Jankel, Rocky Morton",48000000,20928292,1 hour 44 minutes
+544,Rowdy Herrington,30000000,24107867,1 hour 42 minutes
+543,Thomas Schlamme,20000000,11585483,1 hour 33 minutes
+542,Steve Rash,8000000,36448400,1 hour 35 minutes
+541,Ridley Scott,28000000,41758687,1 hour 57 minutes
+540,Phillip Noyce,40000000,116300000,1 hour 47 minutes
+539,Nora Ephron,21000000,227927165,1 hour 45 minutes
+538,Fred Schepisi,12000000,6405918,1 hour 52 minutes
+537,John Duigan,-,7770731,1 hour 38 minutes
+536,Gillies MacKinnon,-,3430583,1 hour 46 minutes
+535,Robert Altman,12000000,6110979,3 hours 8 minutes
+534,Richard Attenborough,22000000,25842377,2 hours 11 minutes
+533,Russell Mulcahy,25000000,48063435,1 hour 48 minutes
+532,John Waters,13000000,7823437,1 hour 35 minutes
+531,Agnieszka Holland,18000000,31181347,1 hour 41 minutes
+529,Steven Zaillian,12000000,7266383,1 hour 49 minutes
+528,Michael Ritchie,-,2694234,1 hour 41 minutes
+527,Steven Spielberg,22000000,322161245,3 hours 15 minutes
+526,Cyril Collard,-,662341,2 hours 6 minutes
+524,David Anspaugh,-,22881563,1 hour 54 minutes
+523,Victor Nunez,800000,1001437,1 hour 54 minutes
+522,Geoffrey Wright,-,175526,1 hour 34 minutes
+521,Peter Medak,11500000,3275585,1 hour 50 minutes
+520,Mel Brooks,20000000,35739755,1 hour 44 minutes
+519,Fred Dekker,22000000,10696210,1 hour 44 minutes
+518,Alan Parker,25000000,6562513,1 hour 58 minutes
+517,Philip Kaufman,35000000,107198790,2 hours 9 minutes
+516,Penny Marshall,40000000,24332324,2 hours 8 minutes
+515,James Ivory,15000000,23240144,2 hours 14 minutes
+514,Ted Demme,11000000,11439193,1 hour 37 minutes
+513,Mel Smith,15000000,1316865,1 hour 48 minutes
+512,Stuart Orme,-,8647042,1 hour 49 minutes
+511,David S. Ward,15000000,23032565,1 hour 52 minutes
+510,John Singleton,14000000,27515786,1 hour 49 minutes
+509,Jane Campion,7000000,40185556,2 hours 1 minute
+508,Jonathan Demme,26000000,206678440,2 hours 5 minutes
+507,Clint Eastwood,30000000,135130999,2 hours 18 minutes
+506,Sally Potter,4000000,5409423,1 hour 34 minutes
+505,Rob Reiner,40000000,7182747,1 hour 27 minutes
+504,Martin Campbell,20000000,15339030,1 hour 58 minutes
+502,Christopher Cain,12000000,15876353,1 hour 47 minutes
+501,Mike Leigh,-,1797195,2 hours 11 minutes
+500,Chris Columbus,25000000,441286195,2 hours 5 minutes
+499,Anthony Minghella,13000000,3125424,1 hour 38 minutes
+497,Kenneth Branagh,11000000,22549338,1 hour 51 minutes
+496,Tom Noonan,120000,141,1 hour 31 minutes
+495,Nagisa Ôshima,-,266,1 hour 49 minutes
+494,Stuart Baird,55000000,121969216,2 hours 13 minutes
+493,"Albert Hughes, Allen Hughes",3500000,27912072,1 hour 37 minutes
+492,Woody Allen,13500000,11330911,1 hour 44 minutes
+491,Mel Gibson,20000000,24760338,1 hour 55 minutes
+490,Harold Becker,20000000,46405336,1 hour 47 minutes
+489,Richard Benjamin,22000000,104942695,1 hour 51 minutes
+488,David Cronenberg,-,1498795,1 hour 41 minutes
+487,Simon Wincer,36000000,16821273,1 hour 38 minutes
+486,James Lapine,-,12440858,1 hour 31 minutes
+485,John McTiernan,85000000,137298489,2 hours 10 minutes
+484,Daniel Petrie,-,9994609,1 hour 34 minutes
+482,Roger Avary,1500000,418961,1 hour 36 minutes
+481,Dominic Sena,9000000,2395231,1 hour 57 minutes
+480,Steven Spielberg,63000000,1104379926,2 hours 7 minutes
+479,Stephen Hopkins,21000000,12526677,1 hour 50 minutes
+478,Barry Levinson,30000000,3783003,1 hour 52 minutes
+477,Brian Gibson,15000000,39100956,1 hour 58 minutes
+476,Matty Rich,8000000,8880705,1 hour 50 minutes
+475,Jim Sheridan,13000000,65796862,2 hours 13 minutes
+474,Wolfgang Petersen,40000000,176997168,2 hours 8 minutes
+473,Daniel Petrie Jr.,-,28881266,1 hour 31 minutes
+472,James L. Brooks,40000000,10424645,1 hour 55 minutes
+471,"Joel Coen, Ethan Coen",40000000,2816518,1 hour 51 minutes
+470,Eric Meza,-,19281235,1 hour 40 minutes
+469,Bille August,40000000,6265311,2 hours 25 minutes
+468,Christopher Monger,40997769,10904930,1 hour 39 minutes
+467,Julianna Lavin,-,23808,1 hour 35 minutes
+466,Jim Abrahams,25000000,133752825,1 hour 26 minutes
+464,John Woo,18000000,74189677,1 hour 37 minutes
+461,Rose Troche,15000,2405285,1 hour 23 minutes
+460,Howard Deutch,30000000,18869594,1 hour 49 minutes
+459,Roger Donaldson,-,30057974,1 hour 55 minutes
+458,Walter Hill,35000000,18635620,1 hour 55 minutes
+457,Andrew Davis,44000000,368875760,2 hours 10 minutes
+456,Boaz Yakin,3500000,8094616,1 hour 54 minutes
+455,Simon Wincer,20000000,153709806,1 hour 52 minutes
+454,Sydney Pollack,42000000,270248367,2 hours 34 minutes
+453,Barry Sonnenfeld,30000000,11146270,1 hour 36 minutes
+452,John Irvin,-,6243722,1 hour 41 minutes
+451,Steve Kloves,-,9709451,2 hours 6 minutes
+450,Alek Keshishian,-,20016254,1 hour 41 minutes
+449,Rusty Cundieff,999999,233824,1 hour 28 minutes
+448,Peter Weir,-,6995302,2 hours 2 minutes
+446,Kaige Chen,4000000,7447084,2 hours 51 minutes
+445,Carl Reiner,-,7839327,1 hour 31 minutes
+444,Gus Van Sant,8000000,1708873,1 hour 46 minutes
+442,Marco Brambilla,57000000,58056466,1 hour 55 minutes
+441,Richard Linklater,6900000,8259076,1 hour 43 minutes
+440,Ivan Reitman,28000000,63270710,1 hour 50 minutes
+438,Gregg Champion,35000000,20280016,1 hour 42 minutes
+437,Michael Ritchie,-,11391093,1 hour 33 minutes
+436,Richard Rush,40000000,19726050,2 hours 1 minute
+435,Steve Barron,30000000,21274717,1 hour 28 minutes
+434,Renny Harlin,70000000,255000211,1 hour 53 minutes
+433,Mick Jackson,18000000,7355425,1 hour 47 minutes
+432,Paul Weiland,40000000,43622150,1 hour 56 minutes
+431,Brian De Palma,30000000,63848322,2 hours 24 minutes
+430,John Whitesell,13000000,2570550,1 hour 30 minutes
+429,Adam Resnick,9000000,3662459,1 hour 20 minutes
+428,Robert De Niro,22000000,17287898,2 hours 1 minute
+427,Jennifer Lynch,-,1796389,1 hour 47 minutes
+426,Abel Ferrara,13000000,428868,1 hour 27 minutes
+425,Tony Richardson,16000000,3359465,1 hour 41 minutes
+424,William Friedkin,-,23070663,1 hour 48 minutes
+423,Stephen Hopkins,28000000,30156002,2 hours 1 minute
+422,Michael Apted,11000000,16696219,1 hour 46 minutes
+421,Caroline Thompson,-,4630377,1 hour 28 minutes
+420,John Landis,50000000,119208989,1 hour 44 minutes
+419,Penelope Spheeris,25000000,57405220,1 hour 32 minutes
+418,Bill Forsyth,40000000,1519366,2 hours 2 minutes
+417,Whit Stillman,3200000,7266973,1 hour 41 minutes
+416,Jonathan Kaplan,25000000,15240435,1 hour 39 minutes
+415,John Badham,-,20208496,1 hour 48 minutes
+414,Paul Michael Glaser,17080000,21011318,1 hour 47 minutes
+413,Michael Lehmann,-,5751882,1 hour 32 minutes
+412,Martin Scorsese,34000000,32255953,2 hours 19 minutes
+410,Barry Sonnenfeld,47000000,48919043,1 hour 34 minutes
+409,Jeff Pollack,3500000,16192320,1 hour 36 minutes
+408,John G. Avildsen,7000000,19623396,1 hour 45 minutes
+407,John Carpenter,8000000,8926413,1 hour 35 minutes
+406,Michael Corrente,80000,514775,1 hour 37 minutes
+405,Andrew Morahan,26000000,12303080,1 hour 39 minutes
+393,Steven E. de Souza,35000000,99433436,1 hour 42 minutes
+391,Doug McHenry,7000000,20851521,1 hour 59 minutes
+390,Russ Meyer,45000,-,1 hour 23 minutes
+389,Yves Angelo,-,464284,1 hour 50 minutes
+388,"Robert Lee King, Raoul O'Connell, Brian Sloan",-,-,1 hour 31 minutes
+387,Keenen Ivory Wayans,10000000,29392418,1 hour 40 minutes
+386,Jefery Levy,-,63513,1 hour 36 minutes
+385,Suri Krishnamma,-,920916,1 hour 39 minutes
+384,Damian Harris,15000000,3674841,1 hour 48 minutes
+383,Lawrence Kasdan,63000000,25052000,3 hours 11 minutes
+382,Mike Nichols,70000000,131002597,2 hours 5 minutes
+381,Luis Mandoki,-,50021959,2 hours 6 minutes
+380,James Cameron,115000000,378882411,2 hours 21 minutes
+379,Peter Hyams,27000000,101646581,1 hour 39 minutes
+378,Ron Underwood,38000000,20667959,1 hour 39 minutes
+377,Jan de Bont,30000000,350448145,1 hour 56 minutes
+376,Curtis Hanson,45000000,94216343,1 hour 51 minutes
+374,Donald Petrie,40000000,38087756,1 hour 35 minutes
+373,John Dahl,8000000,2502551,1 hour 38 minutes
+372,Ben Stiller,11500000,33351557,1 hour 39 minutes
+371,Ron Howard,6000000,48424341,1 hour 52 minutes
+370,Peter Segal,30000000,51132598,1 hour 23 minutes
+369,Alan Rudolph,7000000,2144667,2 hours 5 minutes
+368,Richard Donner,75000000,183031272,2 hours 7 minutes
+367,Chuck Russell,23000000,351583407,1 hour 41 minutes
+366,Wes Craven,8000000,19721741,1 hour 52 minutes
+365,Bernardo Bertolucci,35000000,4885392,2 hours 3 minutes
+364,"Roger Allers, Rob Minkoff",45000000,979161373,1 hour 28 minutes
+363,Ray Müller,-,449707,3 hours 3 minutes
+362,Stephen Sommers,27000000,52389402,1 hour 51 minutes
+361,Andrew Bergman,20000000,37939757,1 hour 41 minutes
+360,Charles Shyer,45000000,30806194,2 hours 3 minutes
+359,Darnell Martin,-,1760527,1 hour 44 minutes
+358,John Singleton,-,38290723,2 hours 8 minutes
+357,Mike Newell,4400000,245700832,1 hour 57 minutes
+356,Robert Zemeckis,55000000,678226465,2 hours 22 minutes
+355,Brian Levant,46000000,341631208,1 hour 31 minutes
+354,Ron Shelton,-,1007583,2 hours 8 minutes
+353,Alex Proyas,23000000,50840352,1 hour 42 minutes
+352,Spike Lee,14000000,13642925,1 hour 55 minutes
+351,Jessie Nelson,15000000,20164171,1 hour 55 minutes
+350,Joel Schumacher,45000000,117615211,1 hour 59 minutes
+349,Phillip Noyce,62000000,215887717,2 hours 21 minutes
+348,Woody Allen,20000000,13383747,1 hour 38 minutes
+347,Roman Polanski,5000000,1862805,2 hours 19 minutes
+346,Iain Softley,-,4708451,1 hour 40 minutes
+345,Stephan Elliott,-,11300650,1 hour 44 minutes
+344,Tom Shadyac,15000000,107217396,1 hour 26 minutes
+343,Melanie Mayron,6500000,9685976,1 hour 34 minutes
+342,P.J. Hogan,9000000,15489542,1 hour 46 minutes
+341,Mina Shum,-,759393,1 hour 27 minutes
+340,Jon Avnet,-,16928556,2 hours 6 minutes
+339,Jon Turteltaub,17000000,182057016,1 hour 43 minutes
+338,Brett Leonard,30000000,24047675,1 hour 46 minutes
+337,Lasse Hallström,11000000,10032765,1 hour 58 minutes
+336,Preston A. Whitmore II,15000000,6014341,1 hour 28 minutes
+335,Steven Soderbergh,6500000,536023,1 hour 39 minutes
+334,Louis Malle,-,1746050,1 hour 59 minutes
+333,Peter Segal,20000000,32679899,1 hour 37 minutes
+332,John Carpenter,22000000,9418365,1 hour 38 minutes
+331,Brian Gilbert,-,538534,1 hour 55 minutes
+330,Rusty Cundieff,6000000,11837928,1 hour 38 minutes
+329,David Carson,35000000,118071125,1 hour 58 minutes
+328,Ernest R. Dickerson,13000000,21089146,1 hour 32 minutes
+327,Rachel Talalay,25000000,4064495,1 hour 44 minutes
+326,Yimou Zhang,-,2332728,2 hours 13 minutes
+325,Kelly Makin,-,4686937,1 hour 31 minutes
+324,"Geoff Burton, Kevin Dowling",3465000,766464,1 hour 40 minutes
+322,George Huang,700000,382928,1 hour 33 minutes
+321,"Tomás Gutiérrez Alea, Juan Carlos Tabío",-,2087569,1 hour 48 minutes
+320,"Scott McGehee, David Siegel",-,102780,1 hour 36 minutes
+319,Danny Boyle,2500000,8418797,1 hour 29 minutes
+318,Frank Darabont,25000000,29332133,2 hours 22 minutes
+317,John Pasquin,22000000,190539357,1 hour 37 minutes
+316,Roland Emmerich,55000000,196567262,1 hour 56 minutes
+315,Luis Llosa,45000000,170362582,1 hour 50 minutes
+314,John Sayles,3000000,6159269,1 hour 43 minutes
+313,Richard Rich,45000000,9771658,1 hour 30 minutes
+312,Harold Ramis,-,912082,1 hour 35 minutes
+311,George Mihalka,2500000,-,1 hour 34 minutes
+310,Fred Gerber,-,-,1 hour 25 minutes
+308,Krzysztof Kieslowski,-,1273978,1 hour 32 minutes
+307,Krzysztof Kieslowski,-,1528454,1 hour 38 minutes
+306,Krzysztof Kieslowski,-,3641934,1 hour 39 minutes
+305,Robert Altman,18000000,11300653,2 hours 13 minutes
+304,Peter Yates,22000000,12096881,1 hour 48 minutes
+303,Sam Raimi,32000000,18636537,1 hour 48 minutes
+302,Patrice Chéreau,42000000,1318578,2 hours 41 minutes
+301,Kayo Hatta,-,1238905,1 hour 34 minutes
+300,Robert Redford,31000000,24822619,2 hours 13 minutes
+299,Antonia Bird,-,4165845,1 hour 38 minutes
+298,Ang Lee,400000,152322,1 hour 45 minutes
+296,Quentin Tarantino,8000000,213928762,2 hours 34 minutes
+295,Joshua Brand,-,345972,1 hour 34 minutes
+294,Mira Nair,11000000,2832826,1 hour 53 minutes
+293,Luc Besson,16000000,20278989,1 hour 50 minutes
+292,Wolfgang Petersen,50000000,189859560,2 hours 7 minutes
+291,Anne Goursaud,-,-,1 hour 46 minutes
+290,Lee Tamahori,-,1608610,1 hour 42 minutes
+289,Norman Jewison,-,20059210,1 hour 49 minutes
+288,Oliver Stone,34000000,50287182,1 hour 59 minutes
+287,Alan Jacobs,-,-,1 hour 38 minutes
+285,Vadim Jean,3000000,-,1 hour 29 minutes
+284,Tôru Murakawa,-,-,1 hour 33 minutes
+283,Nick Gomez,5000000,3565508,1 hour 38 minutes
+282,Michael Apted,24500000,106683817,1 hour 52 minutes
+281,Robert Benton,20000000,39491975,1 hour 50 minutes
+280,Marc Rocco,-,17381942,2 hours 2 minutes
+279,Gregory Nava,5500000,11079373,2 hours 8 minutes
+278,David Frankel,-,5221281,1 hour 35 minutes
+277,Les Mayfield,-,46264384,1 hour 54 minutes
+276,Richard Benjamin,-,18137661,1 hour 50 minutes
+275,Nora Ephron,15000000,6821850,1 hour 37 minutes
+274,James Orr,-,40070995,1 hour 36 minutes
+273,Kenneth Branagh,45000000,112006296,2 hours 3 minutes
+272,Nicholas Hytner,65897768,15238689,1 hour 50 minutes
+271,Stephen Gyllenhaal,17000000,7603766,1 hour 51 minutes
+270,Glenn Gordon Caron,60000000,18272894,1 hour 48 minutes
+269,Allison Anders,-,3267313,1 hour 32 minutes
+267,Nick Castle,-,30112050,1 hour 35 minutes
+266,Edward Zwick,30000000,160638883,2 hours 13 minutes
+265,Alfonso Arau,2000000,21744201,1 hour 45 minutes
+263,Ken Loach,38976598,152457,1 hour 41 minutes
+262,Alfonso Cuarón,17000000,10015449,1 hour 37 minutes
+261,Gillian Armstrong,18000000,50085123,1 hour 55 minutes
+260,George Lucas,11000000,775398507,2 hours 1 minute
+259,Barbet Schroeder,40000000,14942422,1 hour 41 minutes
+258,Michael Gottlieb,15000000,13406717,1 hour 29 minutes
+257,Arne Glimcher,-,36853222,1 hour 42 minutes
+256,Ivan Reitman,60000000,108431355,1 hour 49 minutes
+255,James Melkonian,7000000,7557877,1 hour 22 minutes
+254,James Ivory,14000000,2473668,2 hours 19 minutes
+253,Neil Jordan,60000000,223664608,2 hours 3 minutes
+252,Fred Schepisi,25000000,26381221,1 hour 40 minutes
+251,J.F. Lawton,20000000,6609661,1 hour 50 minutes
+250,Steven Brill,-,17689177,1 hour 37 minutes
+249,Bernard Rose,-,9914409,2 hours 1 minute
+248,Randall Miller,10500000,26325256,1 hour 53 minutes
+247,Peter Jackson,5000000,3049950,1 hour 39 minutes
+246,Steve James,700000,11830611,2 hours 50 minutes
+243,Mark Lewis,-,3941146,1 hour 30 minutes
+242,Gérard Corbiau,-,1600226,1 hour 51 minutes
+241,Carlo Carlei,15000000,3987768,1 hour 36 minutes
+240,Brett Leonard,15000000,12201255,1 hour 46 minutes
+239,Kevin Lima,18000000,35348597,1 hour 18 minutes
+238,Phillip Borsos,-,11642946,1 hour 21 minutes
+237,Billy Crystal,-,33177694,1 hour 41 minutes
+236,Lawrence Kasdan,40000000,101982854,1 hour 51 minutes
+235,Tim Burton,18000000,5888045,2 hours 7 minutes
+234,Garry Marshall,25000000,6841570,1 hour 53 minutes
+233,Atom Egoyan,2000000,4221036,1 hour 43 minutes
+232,Ang Lee,-,7294403,2 hours 4 minutes
+231,"Peter Farrelly, Bobby Farrelly",17000000,247290327,1 hour 47 minutes
+230,Taylor Hackford,-,24361867,2 hours 12 minutes
+229,Roman Polanski,12000000,3103716,1 hour 43 minutes
+228,Jack Baran,-,1176982,1 hour 42 minutes
+227,John Badham,45000000,28735315,1 hour 41 minutes
+225,Barry Levinson,55000000,214015089,2 hours 8 minutes
+224,Jeremy Leven,25000000,68792531,1 hour 37 minutes
+223,Kevin Smith,27000,3152360,1 hour 32 minutes
+222,Pat O'Connor,-,23389975,1 hour 43 minutes
+220,Stuart Gordon,-,-,1 hour 30 minutes
+219,Peter Horton,-,2568425,1 hour 37 minutes
+218,Herbert Ross,21000000,23440188,1 hour 55 minutes
+217,Guy Ferland,2000000,-,1 hour 30 minutes
+216,Tamra Davis,10000000,26488734,1 hour 29 minutes
+215,Richard Linklater,2500000,6568101,1 hour 41 minutes
+214,Milcho Manchevski,1900000,763847,1 hour 53 minutes
+213,Nikita Mikhalkov,2800000,2313461,2 hours 15 minutes
+212,Greg Beeman,-,7919823,1 hour 30 minutes
+211,Mike Figgis,-,487391,1 hour 37 minutes
+210,Walter Hill,30000000,2193982,1 hour 38 minutes
+209,Desmond Nakano,7000000,3734870,1 hour 29 minutes
+208,Kevin Reynolds,175000000,264218220,2 hours 15 minutes
+207,Alfonso Arau,20000000,50008143,1 hour 42 minutes
+206,Douglas Keeve,-,2875086,1 hour 13 minutes
+205,Diane Keaton,-,7929434,1 hour 33 minutes
+204,Geoff Murphy,60000000,104324083,1 hour 40 minutes
+203,Beeban Kidron,30000000,47774193,1 hour 49 minutes
+202,Agnieszka Holland,8000000,340139,1 hour 51 minutes
+201,Martha Coolidge,10000000,7027517,1 hour 55 minutes
+199,Jacques Demy,-,163992,1 hour 31 minutes
+198,Kathryn Bigelow,42000000,7959751,2 hours 25 minutes
+196,Roger Donaldson,35000000,113374103,1 hour 48 minutes
+195,Lasse Hallström,-,50865589,1 hour 46 minutes
+194,Wayne Wang,7000000,8367636,1 hour 52 minutes
+193,Paul Verhoeven,45000000,20363752,2 hours 8 minutes
+191,Roland Joffé,46000000,10382407,2 hours 15 minutes
+190,Todd Haynes,1000000,512558,1 hour 59 minutes
+189,Norman René,-,-,1 hour 31 minutes
+188,Gregory Widen,8000000,16115878,1 hour 38 minutes
+187,Daisy von Scherler Mayer,150000,472370,1 hour 34 minutes
+186,Chris Columbus,-,138510230,1 hour 43 minutes
+185,Irwin Winkler,22000000,110627965,1 hour 54 minutes
+184,Michael Almereyda,1000000,443169,1 hour 33 minutes
+183,Anthony Waller,2000000,1125910,1 hour 35 minutes
+181,Bryan Spicer,20000000,66433194,1 hour 35 minutes
+180,Kevin Smith,8000000,2122561,1 hour 34 minutes
+179,Antonia Bird,-,15453274,1 hour 33 minutes
+178,Denys Arcand,-,542985,1 hour 40 minutes
+177,Clive Barker,12000000,13294422,1 hour 49 minutes
+176,Tom DiCillo,500000,1111790,1 hour 30 minutes
+175,Larry Clark,1500000,7412216,1 hour 31 minutes
+174,John Fortenberry,-,17014653,1 hour 28 minutes
+173,Danny Cannon,90000000,113493481,1 hour 36 minutes
+172,Robert Longo,26000000,19077036,1 hour 36 minutes
+171,Christopher Ashley,-,3487767,1 hour 32 minutes
+170,Iain Softley,20000000,7563728,1 hour 45 minutes
+169,Dwight H. Little,-,30077111,1 hour 35 minutes
+168,Jerry Zucker,55000000,127600435,2 hours 14 minutes
+166,Gregg Araki,-,284785,1 hour 23 minutes
+165,John McTiernan,90000000,366101666,2 hours 8 minutes
+164,Carl Franklin,27000000,16141551,1 hour 42 minutes
+163,Robert Rodriguez,7000000,25405445,1 hour 44 minutes
+162,Terry Zwigoff,-,3041083,1 hour 59 minutes
+161,Tony Scott,53000000,157387195,1 hour 56 minutes
+160,Frank Marshall,50000000,152022101,1 hour 49 minutes
+159,Spike Lee,25000000,13071518,2 hours 8 minutes
+158,Brad Silberling,55000000,288144179,1 hour 40 minutes
+157,Michael Moore,11000000,163971,1 hour 31 minutes
+156,"Paul Auster, Wayne Wang, Harvey Wang",2000000,1268636,1 hour 23 minutes
+155,John Boorman,23000000,5750110,1 hour 40 minutes
+154,Luis Buñuel,-,4162334,1 hour 40 minutes
+153,Joel Schumacher,100000000,336567158,2 hours 1 minute
+152,Abel Ferrara,-,307308,1 hour 22 minutes
+151,Michael Caton-Jones,28000000,31596911,2 hours 19 minutes
+150,Ron Howard,52000000,355237933,2 hours 20 minutes
+149,Hal Hartley,2300000,757088,1 hour 45 minutes
+148,Mike Newell,4000000,259724,1 hour 52 minutes
+147,Scott Kalvert,2000000,2402438,1 hour 42 minutes
+146,Christopher Cain,-,7506759,1 hour 24 minutes
+145,Michael Bay,19000000,141407024,1 hour 59 minutes
+144,Edward Burns,238000,10426506,1 hour 38 minutes
+141,Mike Nichols,31000000,185260553,1 hour 57 minutes
+140,Jon Avnet,60000000,100688705,2 hours 4 minutes
+137,Dirk Shafer,-,209935,1 hour 26 minutes
+135,David S. Ward,31000000,37553752,1 hour 32 minutes
+132,William Friedkin,50000000,9851610,1 hour 35 minutes
+129,Bryan Gordon,-,-,1 hour 35 minutes
+128,Michel Negroponte,-,10622,1 hour 27 minutes
+126,Peter MacDonald,17000000,-,1 hour 35 minutes
+125,David O. Russell,7000000,14702438,1 hour 32 minutes
+123,Wong Kar-Wai,-,3274263,1 hour 42 minutes
+122,Reginald Hudlin,42000000,131052444,1 hour 57 minutes
+121,John N. Smith,-,-,1 hour 33 minutes
+119,Andrew Davis,35000000,3150170,2 hours 15 minutes
+118,Eric Schaeffer,5000000,2420162,1 hour 32 minutes
+117,Benjamin Ross,-,536825,1 hour 39 minutes
+116,Jon Blair,-,1310200,1 hour 57 minutes
+113,Barbet Schroeder,35000000,8797839,1 hour 48 minutes
+112,Stanley Tong,7500000,32392047,1 hour 27 minutes
+111,Martin Scorsese,1300000,28580862,1 hour 54 minutes
+110,Mel Gibson,72000000,213216216,2 hours 58 minutes
+108,Robert Leacock,-,28672,1 hour 35 minutes
+107,Brian Henson,-,34327391,1 hour 39 minutes
+106,Doris Dörrie,-,-,1 hour 44 minutes
+105,Clint Eastwood,24000000,182016617,2 hours 15 minutes
+104,Dennis Dugan,12000000,41205099,1 hour 32 minutes
+103,John Dahl,18000000,2821671,1 hour 57 minutes
+102,Nick Castle,-,12825141,1 hour 36 minutes
+101,Wes Anderson,7000000,560069,1 hour 31 minutes
+100,Harold Becker,40000000,20340204,1 hour 51 minutes
+99,Nick Broomfield,-,34402,1 hour 46 minutes
+97,Mathieu Kassovitz,2590000,756681,1 hour 38 minutes
+96,Kenneth Branagh,-,469571,1 hour 39 minutes
+95,John Woo,50000000,150270147,1 hour 48 minutes
+94,Ted Demme,-,10597759,1 hour 52 minutes
+93,Wes Craven,20000000,19751736,1 hour 40 minutes
+92,Stephen Frears,47000000,12379402,1 hour 48 minutes
+89,John Badham,33000000,8175346,1 hour 30 minutes
+88,Penelope Spheeris,-,32417995,1 hour 27 minutes
+87,Ken Kwapis,-,9871065,1 hour 28 minutes
+86,Ridley Scott,38000000,10292300,2 hours 9 minutes
+85,Philip Haas,4997987,3414301,1 hour 56 minutes
+83,Tim Reid,-,2291255,1 hour 55 minutes
+82,Marleen Gorris,1500000,4249321,1 hour 42 minutes
+81,Gary Fleder,7000000,529766,1 hour 55 minutes
+80,Jafar Panahi,150000,924940,1 hour 25 minutes
+79,Brian Gibson,44000000,22754725,1 hour 58 minutes
+78,Sean Penn,9000000,868979,1 hour 51 minutes
+77,Susanne Ofteringer,-,306691,1 hour 7 minutes
+76,Christian Duguay,20000000,5711695,1 hour 48 minutes
+75,Steve Miner,15000000,2042530,1 hour 30 minutes
+74,Michael Goldenberg,-,27315527,1 hour 27 minutes
+73,Claude Lelouch,-,740048,2 hours 55 minutes
+72,Noah Baumbach,-,718490,1 hour 36 minutes
+71,Andrew Sipes,50000000,11534477,1 hour 31 minutes
+70,Robert Rodriguez,19000000,25839496,1 hour 48 minutes
+69,F. Gary Gray,3500000,28215918,1 hour 31 minutes
+68,Josiane Balasko,-,1026646,1 hour 44 minutes
+66,Farhad Mann,15000000,2409225,1 hour 33 minutes
+65,Jason Bloom,15000000,13427615,1 hour 28 minutes
+64,Bill Bennett,-,10658278,1 hour 36 minutes
+63,Paris Barclay,3800000,20949601,1 hour 29 minutes
+62,Stephen Herek,23000000,106269971,2 hours 24 minutes
+61,John Schlesinger,20000000,26877589,1 hour 41 minutes
+60,Frank Oz,45000000,35656131,1 hour 36 minutes
+58,"Michael Radford, Massimo Troisi",3000000,21898920,1 hour 48 minutes
+57,Jodie Foster,20000000,17519169,1 hour 43 minutes
+55,Ulu Grosbard,-,1110104,1 hour 55 minutes
+54,Holly Goldberg Sloan,12000000,17736619,1 hour 40 minutes
+53,Gianni Amelio,-,4788331,1 hour 56 minutes
+52,Woody Allen,15000000,6468498,1 hour 35 minutes
+50,Bryan Singer,6000000,23341568,1 hour 46 minutes
+49,Patricia Rozema,-,919671,1 hour 34 minutes
+48,"Mike Gabriel, Eric Goldberg",55000000,346079773,1 hour 21 minutes
+47,David Fincher,33000000,328248559,2 hours 7 minutes
+46,Jocelyn Moorhouse,10000000,41200020,1 hour 57 minutes
+45,Gus Van Sant,20000000,21286518,1 hour 46 minutes
+44,Paul W.S. Anderson,18000000,122195920,1 hour 41 minutes
+43,Michael Hoffman,19000000,4005941,1 hour 57 minutes
+42,"Albert Hughes, Allen Hughes",10000000,24147179,1 hour 59 minutes
+41,Richard Loncraine,6000000,2748518,1 hour 44 minutes
+40,Darrell Roodt,-,670727,1 hour 46 minutes
+39,Amy Heckerling,12000000,56698025,1 hour 37 minutes
+38,Andy Tennant,-,19474589,1 hour 41 minutes
+36,Tim Robbins,11000000,39363635,2 hours 2 minutes
+34,Chris Noonan,30000000,254134910,1 hour 31 minutes
+32,Terry Gilliam,29000000,168839459,2 hours 9 minutes
+31,John N. Smith,23000000,179519401,1 hour 39 minutes
+30,Yimou Zhang,-,2086101,1 hour 48 minutes
+29,"Marc Caro, Jean-Pierre Jeunet",18000000,1783616,1 hour 52 minutes
+28,Roger Michell,1000000,5269757,1 hour 43 minutes
+27,Lesli Linka Glatter,-,37591674,1 hour 42 minutes
+26,Oliver Parker,11000000,2844379,2 hours 3 minutes
+25,Mike Figgis,3600000,32029928,1 hour 51 minutes
+24,Victor Salva,9500000,30862156,1 hour 51 minutes
+23,Richard Donner,50000000,30303072,2 hours 13 minutes
+22,Jon Amiel,20000000,32051917,2 hours 3 minutes
+21,Barry Sonnenfeld,30250000,115101622,1 hour 45 minutes
+20,Joseph Ruben,68000000,35431113,1 hour 50 minutes
+19,Steve Oedekerk,30000000,212385533,1 hour 30 minutes
+18,"Allison Anders, Alexandre Rockwell, Robert Rodriguez",4000000,4257354,1 hour 38 minutes
+17,Ang Lee,16000000,134582776,2 hours 16 minutes
+16,Martin Scorsese,52000000,116112375,2 hours 58 minutes
+15,Renny Harlin,98000000,10017322,2 hours 4 minutes
+14,Oliver Stone,44000000,13681765,3 hours 12 minutes
+13,Simon Wells,-,11349090,1 hour 18 minutes
+12,Mel Brooks,30000000,10772144,1 hour 28 minutes
+11,Rob Reiner,62000000,107879496,1 hour 54 minutes
+10,Martin Campbell,60000000,352194034,2 hours 10 minutes
+9,Peter Hyams,35000000,64350171,1 hour 51 minutes
+8,Peter Hewitt,-,23920048,1 hour 37 minutes
+7,Sydney Pollack,58000000,53696959,2 hours 7 minutes
+6,Michael Mann,60000000,187436818,2 hours 50 minutes
+5,Charles Shyer,30000000,76594107,1 hour 46 minutes
+4,Forest Whitaker,16000000,81452156,2 hours 4 minutes
+3,Howard Deutch,25000000,71518503,1 hour 41 minutes
+2,Joe Johnston,65000000,262821940,1 hour 44 minutes
+1,John Lasseter,30000000,394436586,1 hour 21 minutes
